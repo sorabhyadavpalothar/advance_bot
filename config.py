@@ -1,0 +1,7 @@
+# ================== CONFIG.PY ==================
+BOT_TOKEN = "8264977417:AAFrhva9JuxG14HGSqyccohbapBnUB2FQ8c"
+PRIMARY_ADMIN = 5109156071
+ADMIN_LOG_CHANNEL = -1002917245810
+SECONDARY_ADMIN = None
+WELCOME_IMAGE = "https://cinetoon.rf.gd/welcome.png"
+ITEMS_PER_PAGE = 10
